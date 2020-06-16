@@ -19,3 +19,6 @@ $ cd C:\Users\Camp51.9 Welcomezone\Documents\ATOM\google-images-deep-learning
 ```python 
 $ python download_images.py --urls urls.txt --output images/santa
 ```
+
+## 구글 드라이브를 이용한 방법  
+![](https://github.com/mtinet/googleImageDownloader/blob/master/images/copy%20path.png?raw=true)  
