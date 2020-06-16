@@ -14,7 +14,7 @@
 ```python 
 $ cd C:\Users\Camp51.9 Welcomezone\Documents\ATOM\google-images-deep-learning 
 ```
-11. 이미지를 다운로드 받을 폴더를 만든다.  
+11. 이미지를 다운로드 받을 폴더(여기서는 images/santa)를 만든다.  
 12. 아래 명령으로 파이썬을 실행하여 이미지를 다운로드 받는다. 다만 아래 명령어의 마지막 부분에 있는 images/santa 부분은 해당 폴더를 미리 만들어 놓아야 한다.    
 ```python 
 $ python download_images.py --urls urls.txt --output images/santa
