@@ -1,6 +1,6 @@
 # googleImageDownloader
 
-## Adrian Rosebrock의 구글 이미지 다운로더  
+## Adrian Rosebrock의 구글 이미지 다운로더(javascript, python 사용)  
 1. 이 깃을 다운로드 받는다.  
 2. 크롬을 연다.  
 3. 구글 검색에서 원하는 이미지를 검색한다.  
@@ -19,7 +19,8 @@ $ cd C:\Users\Camp51.9 Welcomezone\Documents\ATOM\google-images-deep-learning
 ```python 
 $ python download_images.py --urls urls.txt --output images/santa
 ```
-
+  
+  
 ## 구글 드라이브를 이용한 방법은 아래 링크와 이미지를 참고하세요.  
 [구글 드라이브로 구글 이미지를 크롤링 하는 방법](https://colab.research.google.com/drive/11stLUm_jowYF0X12JiHrqkvlut2ONWEi?usp=sharing)  
 ![](https://github.com/mtinet/googleImageDownloader/blob/master/images/image%20downloader.png?raw=true)  
