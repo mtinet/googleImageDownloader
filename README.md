@@ -20,5 +20,7 @@ $ cd C:\Users\Camp51.9 Welcomezone\Documents\ATOM\google-images-deep-learning
 $ python download_images.py --urls urls.txt --output images/santa
 ```
 
-## 구글 드라이브를 이용한 방법  
+## 구글 드라이브를 이용한 방법은 아래 링크와 이미지를 참고하세요.  
+[구글 드라이브로 구글 이미지를 크롤링 하는 방법](https://colab.research.google.com/drive/11stLUm_jowYF0X12JiHrqkvlut2ONWEi?usp=sharing)  
+![](https://github.com/mtinet/googleImageDownloader/blob/master/images/image%20downloader.png?raw=true)  
 ![](https://github.com/mtinet/googleImageDownloader/blob/master/images/copy%20path.png?raw=true)  
